@@ -23,7 +23,8 @@
     "hapi-auth-jwt2": "^8.6.2",
     "node-fetch": "^2.6.0",
     "rss-parser": "^3.7.3",
-    "twit": "^2.2.11"
+    "twit": "^2.2.11",
+    "mongodb": "^3.3.2"
   },
   "devDependencies": {
     "@types/hapi": "^18.0.2",

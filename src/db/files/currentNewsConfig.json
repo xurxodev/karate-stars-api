@@ -1,0 +1,60 @@
+{
+  "feeds": [
+    {
+      "name": "WKF News Center",
+      "url": "http://fetchrss.com/rss/59baa0d28a93f8a1048b4567777611407.xml",
+      "language": "en",
+      "type": "rss",
+      "image": "http://www.karatestarsapp.com/app/logos/wkf.png"
+    },
+    {
+      "name": "Inside The Games",
+      "url": "http://fetchrss.com/rss/59baa0d28a93f8a1048b4567627850382.xml",
+      "language": "en",
+      "type": "rss",
+      "image": "http://www.karatestarsapp.com/app/logos/inside_the_games.gif"
+    },
+    {
+      "name": "Karate – OA Sport",
+      "url": "http://fetchrss.com/rss/59baa0d28a93f8a1048b4567506228339.xml",
+      "language": "en",
+      "type": "rss",
+      "image": "http://www.karatestarsapp.com/app/logos/oa_sport.png"
+    },
+    {
+      "name": "karate-k",
+      "url": "http://karate-k.com/en/?format=feed&type=rss",
+      "language": "en",
+      "type": "rss",
+      "image": "http://www.karatestarsapp.com/app/logos/karate_k.png"
+    },
+    {
+      "name": "Sandra Sanchez",
+      "url": "https://sandra-san.com/feed/",
+      "language": "es",
+      "type": "rss",
+      "image": "http://www.karatestarsapp.com/app/logos/sandra-san.png"
+    },
+    {
+      "name": "Alexandra Recchia",
+      "url": "http://alexandrarecchia.com/feed/",
+      "language": "fr",
+      "type": "rss",
+      "image": "http://www.karatestarsapp.com/app/logos/alexandra_recchia.png"
+    },
+    {
+      "name": "Damian Quintero",
+      "url": "http://www.damianquintero.com/feed/",
+      "language": "es",
+      "type": "rss",
+      "image": "http://www.karatestarsapp.com/app/logos/damian_quintero.png"
+    },
+    {
+      "name": "Adidas Combat Sports",
+      "url": "https://www.combat-sports.net/en/category/karate/feed/",
+      "language": "en",
+      "type": "rss",
+      "image": "http://www.karatestarsapp.com/app/logos/adidas.png"
+    }
+  ]
+}

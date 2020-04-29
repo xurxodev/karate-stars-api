@@ -1,0 +1,78 @@
+[
+  {
+    "iso": "br",
+    "name": "Brazil"
+  },
+  {
+    "iso": "ir",
+    "name": "Iran"
+  },
+  {
+    "iso": "es",
+    "name": "Spain"
+  },
+  {
+    "iso": "eg",
+    "name": "Egypt"
+  },
+  {
+    "iso": "tr",
+    "name": "Turkey"
+  },
+  {
+    "iso": "fr",
+    "name": "France"
+  },
+  {
+    "iso": "gb-eng",
+    "name": "England"
+  },
+  {
+    "iso": "az",
+    "name": "Azerbaijan"
+  },
+  {
+    "iso": "it",
+    "name": "Italy"
+  },
+  {
+    "iso": "ua",
+    "name": "Ukraine"
+  },
+  {
+    "iso": "us",
+    "name": "EE. UU."
+  },
+  {
+    "iso": "de",
+    "name": "Germany"
+  },
+  {
+    "iso": "jp",
+    "name": "Japan"
+  },
+  {
+    "iso": "ge",
+    "name": "Georgia"
+  },
+  {
+    "iso": "hr",
+    "name": "Croatia"
+  },
+  {
+    "iso": "at",
+    "name": "Austria"
+  },
+  {
+    "iso": "ve",
+    "name": "Venezuela"
+  },
+  {
+    "iso": "gr",
+    "name": "Greece"
+  },
+  {
+    "iso": "ch",
+    "name": "Switzerland"
+  }
+]
